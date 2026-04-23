@@ -1,0 +1,5 @@
+{
+  "name": "SyllabiSync",
+  "description": "A student productivity app that extracts assignment dates from syllabi and syncs them to your calendar with priority tracking and grade calculation.",
+  "requestFramePermissions": []
+}
